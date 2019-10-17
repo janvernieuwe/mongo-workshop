@@ -13,4 +13,6 @@ Name: workshop
 Address: localhost
 Port: 27016
 ```
-
+## Useful links
+* https://docs.mongodb.com/manual/tutorial/update-documents/
+* https://raw.githubusercontent.com/ozlerhakan/mongodb-json-files/master/datasets/restaurant.json
